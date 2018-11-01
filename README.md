@@ -1,4 +1,5 @@
-seminario-doc-2014
+Cointegration example
 ==================
 
-Cointegración en series de tiempo
+Example 3.1 taken from the book "Likelihood-Based-Inference-Cointegrated-Autoregressive-Econometrics"
+
